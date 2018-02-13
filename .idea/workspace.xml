@@ -1,126 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="766cca18-31f3-4ed9-9afb-9082e7c45871" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/Readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/contactform/contactform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/contactform/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/about/about1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/about/about2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/client/client1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/client/client2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/client/client3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/client/client4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/client/client5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/client/client6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/footer/footer1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/footer/footer2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/footer/footer3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/footer/footer4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/footer/footer5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/footer/footer6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/portfolio/portfolio8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/slider/slider1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/slider/slider2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/images/slider/slider3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/js/jquery.inview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBiz/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/Readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/contactform/contactform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/contactform/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/about/about1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/about/about2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/client/client1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/client/client2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/client/client3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/client/client4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/client/client5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/client/client6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/footer/footer1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/footer/footer2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/footer/footer3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/footer/footer4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/footer/footer5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/footer/footer6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/portfolio/portfolio8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/slider/slider1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/slider/slider2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/images/slider/slider3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/js/jquery.inview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lomsite/js/script.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+    <list default="true" id="766cca18-31f3-4ed9-9afb-9082e7c45871" name="Default" comment="Money transfer page">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agent_banking.html" afterPath="$PROJECT_DIR$/agent_banking.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forex.html" afterPath="$PROJECT_DIR$/forex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generalAgencies.html" afterPath="$PROJECT_DIR$/generalAgencies.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobilemoney.html" afterPath="$PROJECT_DIR$/mobilemoney.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moneytransfer.html" afterPath="$PROJECT_DIR$/moneytransfer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realestate.html" afterPath="$PROJECT_DIR$/realestate.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,40 +37,6 @@
               <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <marker date="1518021196475" expanded="true" signature="3178:3196" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3178:3211" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3178:3222" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3178:3233" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3178:7260" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3178:7268" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3284:3557" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3308:3550" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3321:3385" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3398:3463" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3476:3540" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3582:5713" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3610:5706" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3641:3776" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3677:3761" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3807:5694" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3823:3836" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="3928:3941" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="4011:4506" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="4522:4572" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="4612:4693" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="4746:4826" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="4879:4959" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5012:5092" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5320:5333" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5764:6862" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5792:6855" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5818:6844" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5853:6170" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="5895:6151" ph="..." />
-                <marker date="1518021196475" expanded="false" signature="5917:5923" ph="©" />
-                <marker date="1518021196475" expanded="true" signature="5997:6128" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="6206:6829" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="6249:6810" ph="..." />
-                <marker date="1518021196475" expanded="true" signature="6319:6787" ph="..." />
               </folding>
             </state>
           </provider>
@@ -202,45 +50,52 @@
               <folding>
                 <element signature="n#div#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <marker date="1518021178956" expanded="true" signature="2974:3012" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="2974:3035" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3078:3242" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3105:3219" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3350:3622" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3374:3615" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3387:3451" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3541:3605" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3647:6033" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3675:6022" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3706:3825" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3856:5989" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="3872:3885" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="4147:4161" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="4256:5970" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="4427:4576" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="4723:5018" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="5236:5397" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="5741:5952" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6084:7182" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6112:7175" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6138:7164" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6173:6490" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6215:6471" ph="..." />
-                <marker date="1518021178956" expanded="false" signature="6237:6243" ph="©" />
-                <marker date="1518021178956" expanded="true" signature="6317:6448" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6526:7149" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6569:7130" ph="..." />
-                <marker date="1518021178956" expanded="true" signature="6639:7107" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobilemoney.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobilemoney.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <marker date="1518457868628" expanded="true" signature="3010:3174" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3037:3151" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3283:3557" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3308:3550" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3321:3385" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3398:3463" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3476:3540" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3582:5057" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3610:5050" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3641:3760" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3791:5024" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="3807:3820" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="4098:4112" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="4667:4680" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5108:6206" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5136:6199" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5162:6188" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5197:5514" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5239:5495" ph="..." />
+                <marker date="1518457868628" expanded="false" signature="5261:5267" ph="©" />
+                <marker date="1518457868628" expanded="true" signature="5341:5472" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5550:6173" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5593:6154" ph="..." />
+                <marker date="1518457868628" expanded="true" signature="5663:6131" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -291,11 +146,11 @@
         <option value="$PROJECT_DIR$/forex.html" />
         <option value="$PROJECT_DIR$/generalAgencies.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/mobilemoney.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/realestate.html" />
         <option value="$PROJECT_DIR$/moneytransfer.html" />
         <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/mobilemoney.html" />
       </list>
     </option>
   </component>
@@ -347,8 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -363,6 +216,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -503,6 +358,8 @@
       <workItem from="1516972439567" duration="3063000" />
       <workItem from="1517291700401" duration="1707000" />
       <workItem from="1518010202815" duration="1378000" />
+      <workItem from="1518445874900" duration="2113000" />
+      <workItem from="1518456947007" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="Money transfer page">
       <created>1516111529964</created>
@@ -515,7 +372,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81900000" />
+    <option name="totallyTimeSpent" value="84688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,21 +384,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13103953" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1295754" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -883,13 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobilemoney.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="102" lean-forward="false" selection-start-line="29" selection-start-column="102" selection-end-line="29" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -917,40 +766,6 @@
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <marker date="1518021196475" expanded="true" signature="3178:3196" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3178:3211" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3178:3222" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3178:3233" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3178:7260" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3178:7268" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3284:3557" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3308:3550" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3321:3385" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3398:3463" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3476:3540" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3582:5713" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3610:5706" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3641:3776" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3677:3761" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3807:5694" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3823:3836" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="3928:3941" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="4011:4506" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="4522:4572" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="4612:4693" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="4746:4826" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="4879:4959" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5012:5092" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5320:5333" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5764:6862" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5792:6855" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5818:6844" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5853:6170" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="5895:6151" ph="..." />
-            <marker date="1518021196475" expanded="false" signature="5917:5923" ph="©" />
-            <marker date="1518021196475" expanded="true" signature="5997:6128" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="6206:6829" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="6249:6810" ph="..." />
-            <marker date="1518021196475" expanded="true" signature="6319:6787" ph="..." />
           </folding>
         </state>
       </provider>
@@ -962,34 +777,6 @@
           <folding>
             <element signature="n#div#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <marker date="1518021178956" expanded="true" signature="2974:3012" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="2974:3035" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3078:3242" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3105:3219" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3350:3622" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3374:3615" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3387:3451" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3541:3605" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3647:6033" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3675:6022" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3706:3825" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3856:5989" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="3872:3885" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="4147:4161" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="4256:5970" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="4427:4576" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="4723:5018" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="5236:5397" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="5741:5952" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6084:7182" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6112:7175" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6138:7164" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6173:6490" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6215:6471" ph="..." />
-            <marker date="1518021178956" expanded="false" signature="6237:6243" ph="©" />
-            <marker date="1518021178956" expanded="true" signature="6317:6448" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6526:7149" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6569:7130" ph="..." />
-            <marker date="1518021178956" expanded="true" signature="6639:7107" ph="..." />
           </folding>
         </state>
       </provider>
@@ -999,6 +786,39 @@
         <state relative-caret-position="136">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobilemoney.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1518457868628" expanded="true" signature="3010:3174" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3037:3151" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3283:3557" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3308:3550" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3321:3385" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3398:3463" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3476:3540" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3582:5057" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3610:5050" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3641:3760" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3791:5024" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="3807:3820" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="4098:4112" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="4667:4680" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5108:6206" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5136:6199" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5162:6188" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5197:5514" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5239:5495" ph="..." />
+            <marker date="1518457868628" expanded="false" signature="5261:5267" ph="©" />
+            <marker date="1518457868628" expanded="true" signature="5341:5472" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5550:6173" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5593:6154" ph="..." />
+            <marker date="1518457868628" expanded="true" signature="5663:6131" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
